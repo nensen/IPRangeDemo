@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPRangeDemo", "IPRangeDemo\IPRangeDemo.csproj", "{D89CBF15-1A7D-408B-8ADB-A131E28DD56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPRangeDemo.Test", "IPRangeDemo.Test\IPRangeDemo.Test.csproj", "{4634A8B4-57A3-4A17-9DE6-15A1131C2AC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89CBF15-1A7D-408B-8ADB-A131E28DD56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89CBF15-1A7D-408B-8ADB-A131E28DD56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89CBF15-1A7D-408B-8ADB-A131E28DD56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89CBF15-1A7D-408B-8ADB-A131E28DD56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4634A8B4-57A3-4A17-9DE6-15A1131C2AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4634A8B4-57A3-4A17-9DE6-15A1131C2AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4634A8B4-57A3-4A17-9DE6-15A1131C2AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4634A8B4-57A3-4A17-9DE6-15A1131C2AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3EFF996-2BBB-4F2F-ADE0-ECF3750733CA}
+	EndGlobalSection
+EndGlobal
